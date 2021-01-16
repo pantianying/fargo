@@ -7,7 +7,6 @@ import (
 )
 
 var log = logging.MustGetLogger("fargo")
-
 var metadataLog = logging.MustGetLogger("fargo.metadata")
 var marshalLog = logging.MustGetLogger("fargo.marshal")
 
